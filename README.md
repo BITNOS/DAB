@@ -96,4 +96,3 @@ O uso con fondos reais esixe extremar as precaucións, e significativamente:
 ## Dúvidas, suxestións e contacto
 
 Visita [https://bitnos.info](https://bitnos.info) para máis información.
-```
