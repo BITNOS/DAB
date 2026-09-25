@@ -65,6 +65,7 @@ O script verifica automaticamente o hash SHA256 da descarga de `persistence.tar.
 2. Executa desde o directorio DAB:
 
 ```bash
+chmod +x criar-dab.sh
 ./criar-dab.sh
 ```
 
