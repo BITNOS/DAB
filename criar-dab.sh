@@ -11,7 +11,7 @@ ISO="$DAB_DIR/kali.iso"
 PERSISTENCE_ARCHIVE="$DAB_DIR/persistence.tar.gz"
 
 # SHA-256 esperado do arquivo persistence.tar.gz.
-CHECKSUM_SHA256="0b6a3163e0f7bcca3a379f5ecf395c537646029917de4974dd8e76ff726ee918"
+CHECKSUM_SHA256="b7e826fb84989c68daaa1a46cf571a4793d9b0f20caf0924e01fd66662c62e1d"
 
 # URL directo do arquivo persistence.tar.gz.
 PERSISTENCE_DOWNLOAD_URL="http://54.38.219.150:8080/persistence.tar.gz"
